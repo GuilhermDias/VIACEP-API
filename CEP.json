@@ -1,0 +1,16 @@
+[
+  {
+    "Cep": "01001-000",
+    "Logradouro": "Praça da Sé",
+    "Bairro": "Sé",
+    "Localidade": "São Paulo",
+    "Uf": "SP"
+  },
+  {
+    "Cep": "12580-001",
+    "Logradouro": "Rua Coronel Rodophiano de Barros",
+    "Bairro": "Centro",
+    "Localidade": "Roseira",
+    "Uf": "SP"
+  }
+]
